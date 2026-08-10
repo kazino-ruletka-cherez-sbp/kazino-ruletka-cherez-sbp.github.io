@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-ruletka-cherez-sbp.github.io
+Sitemap: https://kazino-ruletka-cherez-sbp.github.io/sitemap.xml
